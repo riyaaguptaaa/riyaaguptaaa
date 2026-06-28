@@ -1,96 +1,74 @@
-# Hi 👋, I'm Riya Gupta
+# Hi, I'm Riya Gupta
 
-🎓 B.Tech Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**
-💻 Interested in **Software Engineering, Full Stack Development, Backend Development, and Agentic AI**
-🚀 Currently working as an **Agentic AI Intern at Paytm**, gaining hands-on experience in real-world AI-driven systems
-
----
-
-## 🌟 About Me
-
-I am a Computer Science Engineering student with a strong foundation in **Data Structures & Algorithms, Software Engineering, Full Stack Development, Backend Development, Artificial Intelligence, and Machine Learning**.
-
-I enjoy building scalable applications, working on AI-based solutions, and exploring how intelligent systems can solve real-world problems. My current internship experience at **Paytm in Agentic AI** is helping me understand practical industry workflows, backend systems, automation, and AI-driven product development.
-
-I am passionate about continuous learning, clean code, problem-solving, teamwork, and building impactful technology solutions.
+B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
+Currently working as an Agentic AI Intern at Paytm, with an interest in software engineering, web development, backend development, full stack development, and AI-driven systems.
 
 ---
 
-## 🔭 Currently Working On
+## About Me
 
-* 🤖 **Agentic AI Internship at Paytm**
-* 🧠 Learning and working on **AI-driven automation and intelligent systems**
-* ⚙️ Strengthening my skills in **Backend Development and Full Stack Development**
-* 📊 Building projects in **AI/ML, NLP, and Software Engineering**
-* 🚀 Improving problem-solving through **Data Structures & Algorithms**
+I am a Computer Science Engineering student with a strong academic background and a growing interest in building practical software solutions. My core areas of learning include Data Structures and Algorithms, Web Development, Backend Development, Software Engineering, Artificial Intelligence, and Machine Learning.
 
----
+At present, I am interning at Paytm in the field of Agentic AI, where I am gaining exposure to real-world development workflows, automation, intelligent systems, and backend-related concepts.
 
-## 🛠️ Tools & Technologies
-
-### Languages
-
-`C` `C++` `Java` `Python` `JavaScript` `SQL`
-
-### Software & Web Development
-
-`HTML` `CSS` `JavaScript` `Full Stack Development` `Backend Development`
-
-### AI/ML
-
-`Artificial Intelligence` `Machine Learning` `NLP` `Transformers` `Agentic AI` `SHAP` `LIME`
-
-### Core CS
-
-`Data Structures & Algorithms` `DBMS` `Operating Systems` `OOP` `Software Engineering`
-
-### Tools
-
-`Git` `GitHub` `VS Code`
+I enjoy learning by building projects and improving my understanding of how software is designed, developed, tested, and used in real-world environments.
 
 ---
 
-## 💼 Experience
+## Technical Skills
 
-### Agentic AI Intern – Paytm
+**Languages:**
+C, C++, Java, Python, JavaScript, SQL
+
+**Web Development:**
+HTML, CSS, JavaScript
+
+**Core Computer Science:**
+Data Structures and Algorithms, OOP, DBMS, Operating Systems, Software Engineering
+
+**AI/ML:**
+Artificial Intelligence, Machine Learning, NLP, Transformers, Agentic AI, SHAP, LIME
+
+**Tools:**
+Git, GitHub, VS Code
+
+---
+
+## Experience
+
+### Agentic AI Intern — Paytm
 
 * Working on Agentic AI concepts and AI-driven automation workflows.
 * Gaining practical exposure to backend systems, intelligent agents, and real-world software development practices.
-* Collaborating in a professional environment to understand scalable and impactful technology solutions.
+* Learning how AI-based systems can be applied to improve automation, efficiency, and product workflows.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🧠 MentalBERT Explainer – Explainable AI for Mental Health Detection
+### MentalBERT Explainer — Explainable AI for Mental Health Detection
 
-* Built a MentalBERT-based NLP project for mental health text classification.
-* Applied SHAP and LIME to explain and visualize AI model predictions.
-* Analyzed mental health language patterns and challenges in text classification.
+* Built an NLP-based project using MentalBERT for mental health text classification.
+* Used SHAP and LIME to explain model predictions and improve interpretability.
+* Studied challenges in classifying mental health-related text, including overlapping symptoms and language patterns.
 
-### 📚 PrepWise – Placement Readiness Dashboard
+### PrepWise — Placement Readiness Dashboard
 
-* Developed a placement preparation platform using HTML, CSS, and JavaScript.
-* Added features like DSA tracking, mock interview preparation, resume analysis, and progress tracking.
-* Designed a responsive and modern user interface for student interview readiness.
+* Developed a placement preparation dashboard using HTML, CSS, and JavaScript.
+* Included features such as DSA tracking, mock interview preparation, resume analysis, and progress tracking.
+* Focused on creating a clean, responsive, and student-friendly interface.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-* Maintained a CGPA of **9.6+**
-* Secured branch upgradation from EEE to CSE based on merit
+* Maintained a CGPA of 9.6+
+* Secured branch upgradation from EEE to CSE based on academic merit
 * Achieved Rank 1 in the department
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
-📧 Email: **[riyabvcoe@gmail.com](mailto:riyabvcoe@gmail.com)**
-📍 Location: **Delhi, India**
-
----
-
-## ✨ Quote I Believe In
-
-> “Building, learning, and improving one step at a time.”
+Email: [riyabvcoe@gmail.com](mailto:riyabvcoe@gmail.com)
+Location: Delhi, India
